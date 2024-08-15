@@ -1,6 +1,7 @@
 # 💫 About Me:
-What I Am Currently Working On<br>I'm currently working on a distributed file system project that focuses on ensuring reliable storage and retrieval of data with fault tolerance and replication. Additionally, I'm developing a grid-based pathfinding application using Dijkstra's algorithm.<br><br>I Am Looking to Collaborate On<br>I'm looking to collaborate on projects related to machine learning, web development, and distributed systems, especially those that involve implementing complex algorithms or optimizing system performance.<br><br>I Am Looking for Help In<br>I'm looking for help in further refining my knowledge of advanced consensus algorithms like Raft and Paxos, and I’m eager to learn more about deploying scalable systems in cloud environments.<br><br>Ask Me About<br>Ask me about how to build efficient web applications using the MERN stack, implementing machine learning models for predictive analysis, or creating robust distributed systems.
+I Am Abhishek Aggarwal
 
+I'm currently a 4th-year student at PES University with a strong curiosity in web development, data analytics, and machine learning.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-aggarwal-824475216/) 
